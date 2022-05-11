@@ -13,7 +13,7 @@ Hello, welcome to this lesson. Today I create with React MyPortfolio.
 > *STEP-2:*  enter the `Login` folder that appears <br/>
 > *STEP-3:*  open the folder you are in in a text editor <br/>
 > *STEP-4:*  open the folder with `cmd` or `Git Bash` and write `npm start` <br/>
-> *STEP-5:*  to download the project as `.zip`  [here](https://github.com/cavidsuleyman/RESUME/archive/refs/heads/master.zip) click <br/>
+> *STEP-5:*  to download the project as `.zip`  [here](https://github.com/NurayAbbasova/login/archive/refs/heads/master.zip) click <br/>
 
 
 ## Technology
@@ -23,8 +23,8 @@ This project was developed using the following technologies
 | No | Technique | Purpose |
 | - | ---------- | --------------------- |
 | 1 | Html | Create single page website |
-| 1 | Css | Create single page website |
-| 2 | VSCode | Text editor used in the project |
+| 2 | Css | Create single page website |
+| 3 | VSCode | Text editor used in the project |
 
 
 ## SAMPLE SCREEN APPEARANCE
